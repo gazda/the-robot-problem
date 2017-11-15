@@ -39,3 +39,4 @@ The robot can receive UNDO and REDO commands which refer to previous commands bu
 
 - JUnit 4 was used for tests instead of new JUnit 5 which GA release is available since September, 2017. The decision was based on preexisting familiarity with JUnit 4.
 - Although the test coverage is 100% of lines not all representative test cases were added and probably some interesting edge cases are missing.
+- Sample of UML diagrams is located in `uml_diagrams` folder.
